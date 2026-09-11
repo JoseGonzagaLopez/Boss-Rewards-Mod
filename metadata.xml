@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Boss Rewards Mod</name>
+    <directory>bossrewardsmod</directory>
+    <id>3765282237</id>
+    <description>Grants a random reward every time you clear a boss, miniboss, or Boss Rush room in The Binding of Isaac: Repentance.
+
+Features:
+
+Random reward after clearing Boss, Miniboss, and Boss Rush rooms (one reward per wave cleared in Boss Rush).
+
+Two possible reward types: extra health (red, soul, or black heart) or a permanent stat boost (damage, tears, speed, luck, range, or shot speed).
+
+Extra chance for an Angel Room to appear when entering a boss room, applied before the fight begins.
+
+Local co-op compatible.</description>
+    <version>1.1</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Bosses"/>
+    <tag id="Tweaks"/>
+</metadata>
