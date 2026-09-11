@@ -3,11 +3,9 @@ Mod para The Binding of Isaac: Repentance que otorga una recompensa aleatoria ca
 Disponible en Steam Workshop.
 
 Qué hace:
-
-    Otorga una recompensa aleatoria al despejar salas de tipo boss, miniboss y bossrush (en Boss Rush, una recompensa por oleada limpiada, no por cada boss            individual).
-
+ -Otorga una recompensa aleatoria al despejar salas de tipo boss, miniboss y bossrush (en Boss Rush, una recompensa por oleada limpiada)
+ 
 Dos tipos de recompensa posibles:
-
 
  -Vida extra: corazón rojo (solo cura un corazon, no añade contenedor), de alma o negro.
 
